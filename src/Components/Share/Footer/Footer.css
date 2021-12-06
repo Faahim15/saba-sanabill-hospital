@@ -1,0 +1,17 @@
+#footer-subscriber{
+    width: 50%;
+} 
+.footer{
+    background-color: black;
+}
+@media only screen and (max-width:767px){
+    #footer-subscriber{
+        width: 75%;
+    }
+    #footer-area-first{
+        height: 320px;
+    }
+}
+#newsletter{
+    width: auto;
+}
