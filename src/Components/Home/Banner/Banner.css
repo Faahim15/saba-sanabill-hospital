@@ -1,0 +1,26 @@
+a.carousel-control-prev {
+    display: none;
+}
+a.carousel-control-next {
+    display: none;
+}
+.carousel-indicators {
+    display: none;
+}
+button.active {
+    display: none;
+}
+div#banner-text {
+    color: #024350;
+}
+#extra-text{
+    display: block;
+}
+@media only screen and (max-width:767px){
+    img#banner-img {
+        height: 50vh;
+    }
+    #extra-text{
+        display: none;
+    }
+}
